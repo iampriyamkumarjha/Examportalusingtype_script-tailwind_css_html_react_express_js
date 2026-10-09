@@ -1,0 +1,1991 @@
+{
+  "adminSection": {
+    "main": {
+      "email": "",
+      "username": "mcemotihari",
+      "password": "Priyam@12",
+      "name": "Priyam kumar jha",
+      "role": "Chief Examiner (Admin)",
+      "twoFactorEnabled": true,
+      "lastPasswordChanged": "2026-10-06T03:31:46.354Z"
+    }
+  },
+  "studentSection": {
+    "25501": {
+      "profile": {
+        "id": "stu_1791257664466_20_f7cai",
+        "name": "Juhi Rani",
+        "rollNumber": "25501",
+        "regNumber": "25151113022",
+        "department": "CSE AI",
+        "email": "juhir3011@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25501"
+      },
+      "status": "active"
+    },
+    "25502": {
+      "profile": {
+        "id": "stu_1791257664466_8_4nnw3",
+        "name": "Shiv Shekhar",
+        "rollNumber": "25502",
+        "regNumber": "25151113009",
+        "department": "CSE AI",
+        "email": "shivshekhar49@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25502"
+      },
+      "status": "active"
+    },
+    "25503": {
+      "profile": {
+        "id": "stu_1791257664466_14_to1e1",
+        "name": "RAMSUNDARIKUMARI RAMYATA",
+        "rollNumber": "25503",
+        "regNumber": "25151113015",
+        "department": "CSE AI",
+        "email": "Ramsunder07995@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25503"
+      },
+      "status": "active"
+    },
+    "25504": {
+      "profile": {
+        "id": "stu_1791257664466_11_h5g9o",
+        "name": "Ankit raj",
+        "rollNumber": "25504",
+        "regNumber": "25151113012",
+        "department": "CSE AI",
+        "email": "ankitraj995560@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25504"
+      },
+      "status": "active"
+    },
+    "25505": {
+      "profile": {
+        "id": "stu_1791289193854_17_cx9wc",
+        "name": "Rajveer Singh",
+        "rollNumber": "25505",
+        "regNumber": "25151113051",
+        "department": "CSE AI",
+        "email": "rajveersingh.071071@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25505"
+      },
+      "status": "active"
+    },
+    "25506": {
+      "profile": {
+        "id": "stu_1791289193854_15_9d24k",
+        "name": "Navnish Raj",
+        "rollNumber": "25506",
+        "regNumber": "25151113049",
+        "department": "CSE AI",
+        "email": "navnishayush@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25506"
+      },
+      "status": "active"
+    },
+    "25507": {
+      "profile": {
+        "id": "stu_1791257726627_3_olgx4",
+        "name": "Shreya",
+        "rollNumber": "25507",
+        "regNumber": "25151113027",
+        "department": "CSE AI",
+        "email": "Sh09062006@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25507"
+      },
+      "status": "active"
+    },
+    "25508": {
+      "profile": {
+        "id": "stu_1791289193854_20_0b79l",
+        "name": "Khushi Kumari",
+        "rollNumber": "25508",
+        "regNumber": "25151113055",
+        "department": "CSE AI",
+        "email": "khushikr052005@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25508"
+      },
+      "status": "active"
+    },
+    "25510": {
+      "profile": {
+        "id": "stu_1791257664466_4_5qw4n",
+        "name": "Pawan Kumar",
+        "rollNumber": "25510",
+        "regNumber": "25151113005",
+        "department": "CSE AI",
+        "email": "jarh9316@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25510"
+      },
+      "status": "active"
+    },
+    "25511": {
+      "profile": {
+        "id": "stu_1791257664466_13_r1jpv",
+        "name": "Priyanka Ghosh",
+        "rollNumber": "25511",
+        "regNumber": "25151113014",
+        "department": "CSE AI",
+        "email": "priyankaghosh7566@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25511"
+      },
+      "status": "active"
+    },
+    "25513": {
+      "profile": {
+        "id": "stu_1791257664466_7_11tps",
+        "name": "Sonu Kumar",
+        "rollNumber": "25513",
+        "regNumber": "25151113008",
+        "department": "CSE AI",
+        "email": "sonukumarsingh865011@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25513"
+      },
+      "status": "active"
+    },
+    "25515": {
+      "profile": {
+        "id": "stu_1791289846705_2_coq97",
+        "name": "Ashish Kumar",
+        "rollNumber": "25515",
+        "regNumber": "25151113003",
+        "department": "CSE AI",
+        "email": "akumar04401@gmail.com",
+        "createdAt": "2026-10-06T12:30:46.706Z"
+      },
+      "login": {
+        "password": "25515"
+      },
+      "status": "active"
+    },
+    "25516": {
+      "profile": {
+        "id": "stu_1791289193854_23_849le",
+        "name": "Parth Bharti",
+        "rollNumber": "25516",
+        "regNumber": "25151113059",
+        "department": "CSE AI",
+        "email": "25f2004408@ds.study.iitm.ac.in",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25516"
+      },
+      "status": "active"
+    },
+    "25517": {
+      "profile": {
+        "id": "stu_1791257726627_0_qiz0u",
+        "name": "Aastha",
+        "rollNumber": "25517",
+        "regNumber": "25151113024",
+        "department": "CSE AI",
+        "email": "real aastha0110@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25517"
+      },
+      "status": "active"
+    },
+    "25518": {
+      "profile": {
+        "id": "stu_1791289193854_16_x42zx",
+        "name": "Sudhanshu kumar",
+        "rollNumber": "25518",
+        "regNumber": "25151113050",
+        "department": "CSE AI",
+        "email": "sudhasnhukumar841417@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25518"
+      },
+      "status": "active"
+    },
+    "25520": {
+      "profile": {
+        "id": "stu_1791257664466_15_xo3sr",
+        "name": "NIKITA KUMARI",
+        "rollNumber": "25520",
+        "regNumber": "25151113016",
+        "department": "CSE AI",
+        "email": "nikitajaiswal34211@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25520"
+      },
+      "status": "active"
+    },
+    "25521": {
+      "profile": {
+        "id": "stu_1791289193854_2_9vejs",
+        "name": "SAJAD AHAMAD ANSARI",
+        "rollNumber": "25521",
+        "regNumber": "25151113034",
+        "department": "CSE AI",
+        "email": "sajadahamadansari100@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25521"
+      },
+      "status": "active"
+    },
+    "25522": {
+      "profile": {
+        "id": "stu_1791289193854_7_7yp85",
+        "name": "Mohammad Yasir Irshad",
+        "rollNumber": "25522",
+        "regNumber": "25151113040",
+        "department": "CSE AI",
+        "email": "mdyasirirshad2005@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25522"
+      },
+      "status": "active"
+    },
+    "25523": {
+      "profile": {
+        "id": "stu_1791257664466_9_ju9uy",
+        "name": "Tanu kumari",
+        "rollNumber": "25523",
+        "regNumber": "25151113010",
+        "department": "CSE AI",
+        "email": "tanukumari1907@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25523"
+      },
+      "status": "active"
+    },
+    "25524": {
+      "profile": {
+        "id": "stu_1791257664466_6_ht0ro",
+        "name": "Abhishek kumar",
+        "rollNumber": "25524",
+        "regNumber": "25151113007",
+        "department": "CSE AI",
+        "email": "abhishekkumar.240706@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25524"
+      },
+      "status": "active"
+    },
+    "25525": {
+      "profile": {
+        "id": "stu_1791289193854_19_vggfw",
+        "name": "Aakash Kumar",
+        "rollNumber": "25525",
+        "regNumber": "25151113054",
+        "department": "CSE AI",
+        "email": "kumaraakash48760@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25525"
+      },
+      "status": "active"
+    },
+    "25526": {
+      "profile": {
+        "id": "stu_1791289193854_0_4zu1a",
+        "name": "Md Hassan Alam",
+        "rollNumber": "25526",
+        "regNumber": "25151113031",
+        "department": "CSE AI",
+        "email": "hassanalamredmi@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25526"
+      },
+      "status": "active"
+    },
+    "25527": {
+      "profile": {
+        "id": "stu_1791289846705_1_c47rs",
+        "name": "Rohan Kumar",
+        "rollNumber": "25527",
+        "regNumber": "25151113002",
+        "department": "CSE AI",
+        "email": "xveerkrish438@gmail.com",
+        "createdAt": "2026-10-06T12:30:46.706Z"
+      },
+      "login": {
+        "password": "25527"
+      },
+      "status": "active"
+    },
+    "25528": {
+      "profile": {
+        "id": "stu_1791289193854_24_oht4m",
+        "name": "Apara",
+        "rollNumber": "25528",
+        "regNumber": "25151113061",
+        "department": "CSE AI",
+        "email": "naveenkeshav30@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25528"
+      },
+      "status": "active"
+    },
+    "25530": {
+      "profile": {
+        "id": "stu_1791289846705_3_4pc2w",
+        "name": "OM SAMARTHYA",
+        "rollNumber": "25530",
+        "regNumber": "25151113004",
+        "department": "CSE AI",
+        "email": "samarthyaom@gmail.com",
+        "createdAt": "2026-10-06T12:30:46.706Z"
+      },
+      "login": {
+        "password": "25530"
+      },
+      "status": "active"
+    },
+    "25532": {
+      "profile": {
+        "id": "stu_1791289193854_12_vv1ji",
+        "name": "Pawanya jha",
+        "rollNumber": "25532",
+        "regNumber": "25151113046",
+        "department": "CSE AI",
+        "email": "pawanyajha@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25532"
+      },
+      "status": "active"
+    },
+    "25533": {
+      "profile": {
+        "id": "stu_1791289846705_0_l9cb8",
+        "name": "Abhishek Kumar",
+        "rollNumber": "25533",
+        "regNumber": "25151113001",
+        "department": "CSE AI",
+        "email": "ak1772002p@gmail.com",
+        "createdAt": "2026-10-06T12:30:46.706Z"
+      },
+      "login": {
+        "password": "25533"
+      },
+      "status": "active"
+    },
+    "25534": {
+      "profile": {
+        "id": "stu_1791257664466_21_d330g",
+        "name": "Priyam kumar jha",
+        "rollNumber": "25534",
+        "regNumber": "25151113023",
+        "department": "CSE AI",
+        "email": "priyamkumarjha123454321@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25534"
+      },
+      "status": "completed"
+    },
+    "25535": {
+      "profile": {
+        "id": "stu_1791257664466_10_iddv9",
+        "name": "Sneha singh",
+        "rollNumber": "25535",
+        "regNumber": "25151113011",
+        "department": "CSE AI",
+        "email": "snehakhushbu21@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25535"
+      },
+      "status": "active"
+    },
+    "25537": {
+      "profile": {
+        "id": "stu_1791289193854_14_huz5x",
+        "name": "Akshay Kumar",
+        "rollNumber": "25537",
+        "regNumber": "25151113048",
+        "department": "CSE AI",
+        "email": "akshay.nbg2021@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25537"
+      },
+      "status": "active"
+    },
+    "25538": {
+      "profile": {
+        "id": "stu_1791257664466_5_a2lgu",
+        "name": "Baljeet Yadav",
+        "rollNumber": "25538",
+        "regNumber": "25151113006",
+        "department": "CSE AI",
+        "email": "yadavbaljeet134@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25538"
+      },
+      "status": "active"
+    },
+    "25539": {
+      "profile": {
+        "id": "stu_1791257664466_12_inuug",
+        "name": "Garima Kumari",
+        "rollNumber": "25539",
+        "regNumber": "25151113013",
+        "department": "CSE AI",
+        "email": "garima19607@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25539"
+      },
+      "status": "active"
+    },
+    "25540": {
+      "profile": {
+        "id": "stu_1791289193854_13_jts33",
+        "name": "Vandana Ambashtha",
+        "rollNumber": "25540",
+        "regNumber": "25151113047",
+        "department": "CSE AI",
+        "email": "Ambashthavandana@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25540"
+      },
+      "status": "active"
+    },
+    "25541": {
+      "profile": {
+        "id": "stu_1791257726627_5_cd50s",
+        "name": "Aastha Kumari",
+        "rollNumber": "25541",
+        "regNumber": "25151113029",
+        "department": "CSE AI",
+        "email": "",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25541"
+      },
+      "status": "active"
+    },
+    "25542": {
+      "profile": {
+        "id": "stu_1791257664466_17_2n5nx",
+        "name": "Rakhi kumari",
+        "rollNumber": "25542",
+        "regNumber": "25151113018",
+        "department": "CSE AI",
+        "email": "rakhikri034@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25542"
+      },
+      "status": "active"
+    },
+    "25543": {
+      "profile": {
+        "id": "stu_1791289193854_11_spv3b",
+        "name": "ANKUR KUMAR",
+        "rollNumber": "25543",
+        "regNumber": "25151113044",
+        "department": "CSE AI",
+        "email": "ankur10032005@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25543"
+      },
+      "status": "active"
+    },
+    "25545": {
+      "profile": {
+        "id": "stu_1791257664466_16_ymt9q",
+        "name": "Pushpa Kumari",
+        "rollNumber": "25545",
+        "regNumber": "25151113017",
+        "department": "CSE AI",
+        "email": "Pushpa746424@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25545"
+      },
+      "status": "active"
+    },
+    "25546": {
+      "profile": {
+        "id": "stu_1791289193854_9_t0gxt",
+        "name": "Rohit Raj",
+        "rollNumber": "25546",
+        "regNumber": "25151113042",
+        "department": "CSE AI",
+        "email": "rohityadavgg489@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25546"
+      },
+      "status": "active"
+    },
+    "25547": {
+      "profile": {
+        "id": "stu_1791257664466_18_w20so",
+        "name": "Priyanshu Raj",
+        "rollNumber": "25547",
+        "regNumber": "25151113020",
+        "department": "CSE AI",
+        "email": "itzpriyanshu0000@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25547"
+      },
+      "status": "active"
+    },
+    "25548": {
+      "profile": {
+        "id": "stu_1791257726627_2_xc39h",
+        "name": "Suraj kumar",
+        "rollNumber": "25548",
+        "regNumber": "25151113026",
+        "department": "CSE AI",
+        "email": "sd8529699@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25548"
+      },
+      "status": "completed"
+    },
+    "25549": {
+      "profile": {
+        "id": "stu_1791289193854_22_ie8bs",
+        "name": "Aashish Kumar Rai",
+        "rollNumber": "25549",
+        "regNumber": "25151113057",
+        "department": "CSE AI",
+        "email": "raiaashish2008@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25549"
+      },
+      "status": "active"
+    },
+    "25550": {
+      "profile": {
+        "id": "stu_1791289193854_10_z778g",
+        "name": "Tushar kumar",
+        "rollNumber": "25550",
+        "regNumber": "25151113043",
+        "department": "CSE AI",
+        "email": "kumartushar2311@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25550"
+      },
+      "status": "active"
+    },
+    "25551": {
+      "profile": {
+        "id": "stu_1791289193854_8_f5z1z",
+        "name": "Anshu Kumar",
+        "rollNumber": "25551",
+        "regNumber": "25151113041",
+        "department": "CSE AI",
+        "email": "roshan57four@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25551"
+      },
+      "status": "active"
+    },
+    "25552": {
+      "profile": {
+        "id": "stu_1791289193854_18_kg0ar",
+        "name": "Mohit Kumar",
+        "rollNumber": "25552",
+        "regNumber": "25151113052",
+        "department": "CSE AI",
+        "email": "mohit1709kumar@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25552"
+      },
+      "status": "active"
+    },
+    "25555": {
+      "profile": {
+        "id": "stu_1791257664466_19_6j5k5",
+        "name": "Ankit Kumar",
+        "rollNumber": "25555",
+        "regNumber": "25151113021",
+        "department": "CSE AI",
+        "email": "ankitkumarmishra252006@gmail.com",
+        "createdAt": "2026-10-06T03:34:24.466Z"
+      },
+      "login": {
+        "password": "25555"
+      },
+      "status": "active"
+    },
+    "25556": {
+      "profile": {
+        "id": "stu_1791289193854_5_mceem",
+        "name": "Sarthak Shankar",
+        "rollNumber": "25556",
+        "regNumber": "25151113038",
+        "department": "CSE AI",
+        "email": "sarthakshankar06@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25556"
+      },
+      "status": "active"
+    },
+    "25557": {
+      "profile": {
+        "id": "stu_1791289193854_6_20ora",
+        "name": "Gyan Prakash",
+        "rollNumber": "25557",
+        "regNumber": "25151113039",
+        "department": "CSE AI",
+        "email": "prakashgyan09022006@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25557"
+      },
+      "status": "active"
+    },
+    "25558": {
+      "profile": {
+        "id": "stu_1791257726627_6_gfp05",
+        "name": "Amisha kumari",
+        "rollNumber": "25558",
+        "regNumber": "25151113030",
+        "department": "CSE AI",
+        "email": "amishakumari969308@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25558"
+      },
+      "status": "active"
+    },
+    "25559": {
+      "profile": {
+        "id": "stu_1791257726627_1_h0eai",
+        "name": "Priti Jaushan",
+        "rollNumber": "25559",
+        "regNumber": "25151113025",
+        "department": "CSE AI",
+        "email": "pritijaushan502@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25559"
+      },
+      "status": "active"
+    },
+    "25562": {
+      "profile": {
+        "id": "stu_1791289193854_3_mi9ca",
+        "name": "Avrendra kumar",
+        "rollNumber": "25562",
+        "regNumber": "25151113036",
+        "department": "CSE AI",
+        "email": "avrendrakumar171@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25562"
+      },
+      "status": "active"
+    },
+    "25563": {
+      "profile": {
+        "id": "stu_1791257726627_4_zjc1m",
+        "name": "Siddhi kumari",
+        "rollNumber": "25563",
+        "regNumber": "25151113028",
+        "department": "CSE AI",
+        "email": "siddhichaurasiya58@gmail.com",
+        "createdAt": "2026-10-06T03:35:26.627Z"
+      },
+      "login": {
+        "password": "25563"
+      },
+      "status": "active"
+    },
+    "25564": {
+      "profile": {
+        "id": "stu_1791289193854_4_nxcmh",
+        "name": "Basar Khan",
+        "rollNumber": "25564",
+        "regNumber": "25151113037",
+        "department": "CSE AI",
+        "email": "Basark370@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25564"
+      },
+      "status": "active"
+    },
+    "25565": {
+      "profile": {
+        "id": "stu_1791289193854_21_diwh3",
+        "name": "Kumari Jiya Rani",
+        "rollNumber": "25565",
+        "regNumber": "25151113056",
+        "department": "CSE AI",
+        "email": "kjiyarani368@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25565"
+      },
+      "status": "active"
+    },
+    "25567": {
+      "profile": {
+        "id": "stu_1791289193854_1_j10e8",
+        "name": "Anjali kumari",
+        "rollNumber": "25567",
+        "regNumber": "25151113033",
+        "department": "CSE AI",
+        "email": "krianjali5252@gmail.com",
+        "createdAt": "2026-10-06T12:19:53.854Z"
+      },
+      "login": {
+        "password": "25567"
+      },
+      "status": "active"
+    }
+  },
+  "testSection": {
+    "001": {
+      "info": {
+        "id": "test_1791289977225_s7etz",
+        "title": "java",
+        "code": "001",
+        "subject": "java",
+        "paperRef": "001",
+        "department": "CSE (AI)",
+        "durationMinutes": 60,
+        "passingPercentage": 40,
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      "settings": {
+        "status": "published",
+        "accessPin": "959423",
+        "proctorRules": {
+          "tabBlurAutoSubmit": true,
+          "toleranceThreshold": "zero_tolerance",
+          "blurSensitivity": "instantaneous",
+          "fullscreenLock": true,
+          "webcamProctoring": false,
+          "clipboardLock": true,
+          "dualMonitorBlocker": true,
+          "securePasscode": "SEC-IE2AJA"
+        }
+      },
+      "result": {
+        "resultPublished": true,
+        "resultPublishedAt": "2026-10-06T12:37:50.262Z",
+        "resultEmailedAt": "2026-10-06T12:38:02.561Z",
+        "resultEmailedCount": 2
+      },
+      "updatedAt": "2026-10-06T12:38:02.562Z",
+      "questions": [
+        {
+          "id": 1,
+          "questionNumber": 1,
+          "type": "mcq_single",
+          "statement": "3. Which of the following is not a primitive data type in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) int"
+            },
+            {
+              "id": "B",
+              "text": "B) float"
+            },
+            {
+              "id": "C",
+              "text": "C) String"
+            },
+            {
+              "id": "D",
+              "text": "D) char"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "questionNumber": 2,
+          "type": "mcq_single",
+          "statement": "7. Which symbol is used to end a statement in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) :"
+            },
+            {
+              "id": "B",
+              "text": "B) ."
+            },
+            {
+              "id": "C",
+              "text": "C) ;"
+            },
+            {
+              "id": "D",
+              "text": "D) ,"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "questionNumber": 3,
+          "type": "mcq_single",
+          "statement": "8. Which collection does not allow duplicate elements?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) List"
+            },
+            {
+              "id": "B",
+              "text": "B) Set"
+            },
+            {
+              "id": "C",
+              "text": "C) ArrayList"
+            },
+            {
+              "id": "D",
+              "text": "D) Vector"
+            }
+          ],
+          "correctOption": "B",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "questionNumber": 4,
+          "type": "mcq_single",
+          "statement": "10. Which keyword is used to create an object in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) object"
+            },
+            {
+              "id": "B",
+              "text": "B) create"
+            },
+            {
+              "id": "C",
+              "text": "C) new"
+            },
+            {
+              "id": "D",
+              "text": "D) class"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "questionNumber": 5,
+          "type": "mcq_single",
+          "statement": "13. Which keyword refers to the current object in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) self"
+            },
+            {
+              "id": "B",
+              "text": "B) this"
+            },
+            {
+              "id": "C",
+              "text": "C) current"
+            },
+            {
+              "id": "D",
+              "text": "D) object"
+            }
+          ],
+          "correctOption": "B",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        }
+      ]
+    }
+  },
+  "responseSection": {
+    "001": {
+      "25534": {
+        "submissionId": "submission_test_1791289977225_s7etz_stu_1791257664466_21_d330g",
+        "student": {
+          "id": "stu_1791257664466_21_d330g",
+          "name": "Priyam kumar jha",
+          "rollNumber": "25534",
+          "regNumber": "25151113023",
+          "email": "priyamkumarjha123454321@gmail.com",
+          "department": "CSE AI"
+        },
+        "test": {
+          "id": "test_1791289977225_s7etz",
+          "title": "java",
+          "code": "001"
+        },
+        "score": {
+          "totalMarks": 5,
+          "maxMarks": 5,
+          "percentage": 100,
+          "passed": true,
+          "correct": 5,
+          "incorrect": 0,
+          "unattempted": 0
+        },
+        "proctoring": {
+          "isViolation": false,
+          "violationReason": "Candidate voluntarily completed and submitted examination.",
+          "tabSwitchCount": 0
+        },
+        "timeSpentSeconds": 39,
+        "submittedAt": "2026-10-06T12:37:04.723Z",
+        "answers": {
+          "1": {
+            "questionId": 1,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "2": {
+            "questionId": 2,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "3": {
+            "questionId": 3,
+            "selectedOption": "B",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "4": {
+            "questionId": 4,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "5": {
+            "questionId": 5,
+            "selectedOption": "B",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          }
+        }
+      },
+      "25548": {
+        "submissionId": "submission_test_1791289977225_s7etz_stu_1791257726627_2_xc39h",
+        "student": {
+          "id": "stu_1791257726627_2_xc39h",
+          "name": "Suraj kumar",
+          "rollNumber": "25548",
+          "regNumber": "25151113026",
+          "email": "sd8529699@gmail.com",
+          "department": "CSE AI"
+        },
+        "test": {
+          "id": "test_1791289977225_s7etz",
+          "title": "java",
+          "code": "001"
+        },
+        "score": {
+          "totalMarks": 5,
+          "maxMarks": 5,
+          "percentage": 100,
+          "passed": true,
+          "correct": 5,
+          "incorrect": 0,
+          "unattempted": 0
+        },
+        "proctoring": {
+          "isViolation": false,
+          "violationReason": "Candidate voluntarily completed and submitted examination.",
+          "tabSwitchCount": 0
+        },
+        "timeSpentSeconds": 44,
+        "submittedAt": "2026-10-06T12:37:08.006Z",
+        "answers": {
+          "1": {
+            "questionId": 1,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "2": {
+            "questionId": 2,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "3": {
+            "questionId": 3,
+            "selectedOption": "B",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "4": {
+            "questionId": 4,
+            "selectedOption": "C",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          },
+          "5": {
+            "questionId": 5,
+            "selectedOption": "B",
+            "status": "answered",
+            "timeSpentSeconds": 0
+          }
+        }
+      }
+    }
+  },
+  "students": {
+    "stu_1791340032540_0_9q2sx": {
+      "name": "Abhishek Kumar",
+      "rollNumber": "25533",
+      "regNumber": "25151113001",
+      "department": "CSE AI",
+      "email": "ak1772002p@gmail.com",
+      "password": "25533",
+      "id": "stu_1791340032540_0_9q2sx",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_1_upkpw": {
+      "name": "Rohan Kumar",
+      "rollNumber": "25527",
+      "regNumber": "25151113002",
+      "department": "CSE AI",
+      "email": "xveerkrish438@gmail.com",
+      "password": "25527",
+      "id": "stu_1791340032540_1_upkpw",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_2_6oils": {
+      "name": "Ashish Kumar",
+      "rollNumber": "25515",
+      "regNumber": "25151113003",
+      "department": "CSE AI",
+      "email": "akumar04401@gmail.com",
+      "password": "25515",
+      "id": "stu_1791340032540_2_6oils",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_3_l70es": {
+      "name": "OM SAMARTHYA",
+      "rollNumber": "25530",
+      "regNumber": "25151113004",
+      "department": "CSE AI",
+      "email": "samarthyaom@gmail.com",
+      "password": "25530",
+      "id": "stu_1791340032540_3_l70es",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_8_zhulk": {
+      "name": "Shiv Shekhar",
+      "rollNumber": "25502",
+      "regNumber": "25151113009",
+      "department": "CSE AI",
+      "email": "shivshekhar49@gmail.com",
+      "password": "25502",
+      "id": "stu_1791340032540_8_zhulk",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_6_n1w2y": {
+      "name": "Abhishek kumar",
+      "rollNumber": "25524",
+      "regNumber": "25151113007",
+      "department": "CSE AI",
+      "email": "abhishekkumar.240706@gmail.com",
+      "password": "25524",
+      "id": "stu_1791340032540_6_n1w2y",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_7_wxdek": {
+      "name": "Sonu Kumar",
+      "rollNumber": "25513",
+      "regNumber": "25151113008",
+      "department": "CSE AI",
+      "email": "sonukumarsingh865011@gmail.com",
+      "password": "25513",
+      "id": "stu_1791340032540_7_wxdek",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_9_s1al9": {
+      "name": "Tanu kumari",
+      "rollNumber": "25523",
+      "regNumber": "25151113010",
+      "department": "CSE AI",
+      "email": "tanukumari1907@gmail.com",
+      "password": "25523",
+      "id": "stu_1791340032540_9_s1al9",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_4_93lap": {
+      "name": "Pawan Kumar",
+      "rollNumber": "25510",
+      "regNumber": "25151113005",
+      "department": "CSE AI",
+      "email": "jarh9316@gmail.com",
+      "password": "25510",
+      "id": "stu_1791340032540_4_93lap",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_5_9alfx": {
+      "name": "Baljeet Yadav",
+      "rollNumber": "25538",
+      "regNumber": "25151113006",
+      "department": "CSE AI",
+      "email": "yadavbaljeet134@gmail.com",
+      "password": "25538",
+      "id": "stu_1791340032540_5_9alfx",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_10_auu6n": {
+      "name": "Sneha singh",
+      "rollNumber": "25535",
+      "regNumber": "25151113011",
+      "department": "CSE AI",
+      "email": "snehakhushbu21@gmail.com",
+      "password": "25535",
+      "id": "stu_1791340032540_10_auu6n",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_11_8qti0": {
+      "name": "Ankit raj",
+      "rollNumber": "25504",
+      "regNumber": "25151113012",
+      "department": "CSE AI",
+      "email": "ankitraj995560@gmail.com",
+      "password": "25504",
+      "id": "stu_1791340032540_11_8qti0",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_12_oibqe": {
+      "name": "Garima Kumari",
+      "rollNumber": "25539",
+      "regNumber": "25151113013",
+      "department": "CSE AI",
+      "email": "garima19607@gmail.com",
+      "password": "25539",
+      "id": "stu_1791340032540_12_oibqe",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_13_t8ugo": {
+      "name": "Priyanka Ghosh",
+      "rollNumber": "25511",
+      "regNumber": "25151113014",
+      "department": "CSE AI",
+      "email": "priyankaghosh7566@gmail.com",
+      "password": "25511",
+      "id": "stu_1791340032540_13_t8ugo",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_14_iaaxd": {
+      "name": "RAMSUNDARIKUMARI RAMYATA",
+      "rollNumber": "25503",
+      "regNumber": "25151113015",
+      "department": "CSE AI",
+      "email": "Ramsunder07995@gmail.com",
+      "password": "25503",
+      "id": "stu_1791340032540_14_iaaxd",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_15_6wy6v": {
+      "name": "NIKITA KUMARI",
+      "rollNumber": "25520",
+      "regNumber": "25151113016",
+      "department": "CSE AI",
+      "email": "nikitajaiswal34211@gmail.com",
+      "password": "25520",
+      "id": "stu_1791340032540_15_6wy6v",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_16_8krj0": {
+      "name": "Pushpa Kumari",
+      "rollNumber": "25545",
+      "regNumber": "25151113017",
+      "department": "CSE AI",
+      "email": "Pushpa746424@gmail.com",
+      "password": "25545",
+      "id": "stu_1791340032540_16_8krj0",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_17_pj53d": {
+      "name": "Rakhi kumari",
+      "rollNumber": "25542",
+      "regNumber": "25151113018",
+      "department": "CSE AI",
+      "email": "rakhikri034@gmail.com",
+      "password": "25542",
+      "id": "stu_1791340032540_17_pj53d",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_18_yfyqw": {
+      "name": "Priyanshu Raj",
+      "rollNumber": "25547",
+      "regNumber": "25151113020",
+      "department": "CSE AI",
+      "email": "itzpriyanshu0000@gmail.com",
+      "password": "25547",
+      "id": "stu_1791340032540_18_yfyqw",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_19_y7z81": {
+      "name": "Ankit Kumar",
+      "rollNumber": "25555",
+      "regNumber": "25151113021",
+      "department": "CSE AI",
+      "email": "ankitkumarmishra252006@gmail.com",
+      "password": "25555",
+      "id": "stu_1791340032540_19_y7z81",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_20_zocwn": {
+      "name": "Juhi Rani",
+      "rollNumber": "25501",
+      "regNumber": "25151113022",
+      "department": "CSE AI",
+      "email": "juhir3011@gmail.com",
+      "password": "25501",
+      "id": "stu_1791340032540_20_zocwn",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_21_x9ypi": {
+      "name": "Priyam kumar jha",
+      "rollNumber": "25534",
+      "regNumber": "25151113023",
+      "department": "CSE AI",
+      "email": "priyamkumarjha123454321@gmail.com",
+      "password": "25534",
+      "id": "stu_1791340032540_21_x9ypi",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "completed"
+    },
+    "stu_1791340032540_22_c8w4g": {
+      "name": "Aastha",
+      "rollNumber": "25517",
+      "regNumber": "25151113024",
+      "department": "CSE AI",
+      "email": "real aastha0110@gmail.com",
+      "password": "25517",
+      "id": "stu_1791340032540_22_c8w4g",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_23_t27d8": {
+      "name": "Priti Jaushan",
+      "rollNumber": "25559",
+      "regNumber": "25151113025",
+      "department": "CSE AI",
+      "email": "pritijaushan502@gmail.com",
+      "password": "25559",
+      "id": "stu_1791340032540_23_t27d8",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_24_i0l2f": {
+      "name": "Suraj kumar",
+      "rollNumber": "25548",
+      "regNumber": "25151113026",
+      "department": "CSE AI",
+      "email": "sd8529699@gmail.com",
+      "password": "25548",
+      "id": "stu_1791340032540_24_i0l2f",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_25_shfyf": {
+      "name": "Shreya",
+      "rollNumber": "25507",
+      "regNumber": "25151113027",
+      "department": "CSE AI",
+      "email": "Sh09062006@gmail.com",
+      "password": "25507",
+      "id": "stu_1791340032540_25_shfyf",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_26_89wg1": {
+      "name": "Siddhi kumari",
+      "rollNumber": "25563",
+      "regNumber": "25151113028",
+      "department": "CSE AI",
+      "email": "siddhichaurasiya58@gmail.com",
+      "password": "25563",
+      "id": "stu_1791340032540_26_89wg1",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_27_ulg4d": {
+      "name": "Aastha Kumari",
+      "rollNumber": "25541",
+      "regNumber": "25151113029",
+      "department": "CSE AI",
+      "email": "",
+      "password": "25541",
+      "id": "stu_1791340032540_27_ulg4d",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_28_tuln4": {
+      "name": "Amisha kumari",
+      "rollNumber": "25558",
+      "regNumber": "25151113030",
+      "department": "CSE AI",
+      "email": "amishakumari969308@gmail.com",
+      "password": "25558",
+      "id": "stu_1791340032540_28_tuln4",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_29_jcdtu": {
+      "name": "Md Hassan Alam",
+      "rollNumber": "25526",
+      "regNumber": "25151113031",
+      "department": "CSE AI",
+      "email": "hassanalamredmi@gmail.com",
+      "password": "25526",
+      "id": "stu_1791340032540_29_jcdtu",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_30_yjx69": {
+      "name": "Anjali kumari",
+      "rollNumber": "25567",
+      "regNumber": "25151113033",
+      "department": "CSE AI",
+      "email": "krianjali5252@gmail.com",
+      "password": "25567",
+      "id": "stu_1791340032540_30_yjx69",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_31_0n0f2": {
+      "name": "SAJAD AHAMAD ANSARI",
+      "rollNumber": "25521",
+      "regNumber": "25151113034",
+      "department": "CSE AI",
+      "email": "sajadahamadansari100@gmail.com",
+      "password": "25521",
+      "id": "stu_1791340032540_31_0n0f2",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_32_5duqv": {
+      "name": "Avrendra kumar",
+      "rollNumber": "25562",
+      "regNumber": "25151113036",
+      "department": "CSE AI",
+      "email": "avrendrakumar171@gmail.com",
+      "password": "25562",
+      "id": "stu_1791340032540_32_5duqv",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_33_6grcl": {
+      "name": "Basar Khan",
+      "rollNumber": "25564",
+      "regNumber": "25151113037",
+      "department": "CSE AI",
+      "email": "Basark370@gmail.com",
+      "password": "25564",
+      "id": "stu_1791340032540_33_6grcl",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_34_ecm3h": {
+      "name": "Sarthak Shankar",
+      "rollNumber": "25556",
+      "regNumber": "25151113038",
+      "department": "CSE AI",
+      "email": "sarthakshankar06@gmail.com",
+      "password": "25556",
+      "id": "stu_1791340032540_34_ecm3h",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_35_g5nsc": {
+      "name": "Gyan Prakash",
+      "rollNumber": "25557",
+      "regNumber": "25151113039",
+      "department": "CSE AI",
+      "email": "prakashgyan09022006@gmail.com",
+      "password": "25557",
+      "id": "stu_1791340032540_35_g5nsc",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_36_d3chk": {
+      "name": "Mohammad Yasir Irshad",
+      "rollNumber": "25522",
+      "regNumber": "25151113040",
+      "department": "CSE AI",
+      "email": "mdyasirirshad2005@gmail.com",
+      "password": "25522",
+      "id": "stu_1791340032540_36_d3chk",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_37_cod7b": {
+      "name": "Anshu Kumar",
+      "rollNumber": "25551",
+      "regNumber": "25151113041",
+      "department": "CSE AI",
+      "email": "roshan57four@gmail.com",
+      "password": "25551",
+      "id": "stu_1791340032540_37_cod7b",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_38_zji27": {
+      "name": "Rohit Raj",
+      "rollNumber": "25546",
+      "regNumber": "25151113042",
+      "department": "CSE AI",
+      "email": "rohityadavgg489@gmail.com",
+      "password": "25546",
+      "id": "stu_1791340032540_38_zji27",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_39_c2ima": {
+      "name": "Tushar kumar",
+      "rollNumber": "25550",
+      "regNumber": "25151113043",
+      "department": "CSE AI",
+      "email": "kumartushar2311@gmail.com",
+      "password": "25550",
+      "id": "stu_1791340032540_39_c2ima",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_40_zdb7a": {
+      "name": "ANKUR KUMAR",
+      "rollNumber": "25543",
+      "regNumber": "25151113044",
+      "department": "CSE AI",
+      "email": "ankur10032005@gmail.com",
+      "password": "25543",
+      "id": "stu_1791340032540_40_zdb7a",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_41_z01ye": {
+      "name": "Pawanya jha",
+      "rollNumber": "25532",
+      "regNumber": "25151113046",
+      "department": "CSE AI",
+      "email": "pawanyajha@gmail.com",
+      "password": "25532",
+      "id": "stu_1791340032540_41_z01ye",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_42_p840m": {
+      "name": "Vandana Ambashtha",
+      "rollNumber": "25540",
+      "regNumber": "25151113047",
+      "department": "CSE AI",
+      "email": "Ambashthavandana@gmail.com",
+      "password": "25540",
+      "id": "stu_1791340032540_42_p840m",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_43_np5ao": {
+      "name": "Akshay Kumar",
+      "rollNumber": "25537",
+      "regNumber": "25151113048",
+      "department": "CSE AI",
+      "email": "akshay.nbg2021@gmail.com",
+      "password": "25537",
+      "id": "stu_1791340032540_43_np5ao",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_44_wq4cg": {
+      "name": "Navnish Raj",
+      "rollNumber": "25506",
+      "regNumber": "25151113049",
+      "department": "CSE AI",
+      "email": "navnishayush@gmail.com",
+      "password": "25506",
+      "id": "stu_1791340032540_44_wq4cg",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_45_e5n4n": {
+      "name": "Sudhanshu kumar",
+      "rollNumber": "25518",
+      "regNumber": "25151113050",
+      "department": "CSE AI",
+      "email": "sudhasnhukumar841417@gmail.com",
+      "password": "25518",
+      "id": "stu_1791340032540_45_e5n4n",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_46_dlj72": {
+      "name": "Rajveer Singh",
+      "rollNumber": "25505",
+      "regNumber": "25151113051",
+      "department": "CSE AI",
+      "email": "rajveersingh.071071@gmail.com",
+      "password": "25505",
+      "id": "stu_1791340032540_46_dlj72",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_50_rmw9x": {
+      "name": "Kumari Jiya Rani",
+      "rollNumber": "25565",
+      "regNumber": "25151113056",
+      "department": "CSE AI",
+      "email": "kjiyarani368@gmail.com",
+      "password": "25565",
+      "id": "stu_1791340032540_50_rmw9x",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_47_g8m1z": {
+      "name": "Mohit Kumar",
+      "rollNumber": "25552",
+      "regNumber": "25151113052",
+      "department": "CSE AI",
+      "email": "mohit1709kumar@gmail.com",
+      "password": "25552",
+      "id": "stu_1791340032540_47_g8m1z",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_48_kmnvn": {
+      "name": "Aakash Kumar",
+      "rollNumber": "25525",
+      "regNumber": "25151113054",
+      "department": "CSE AI",
+      "email": "kumaraakash48760@gmail.com",
+      "password": "25525",
+      "id": "stu_1791340032540_48_kmnvn",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_49_a9vmx": {
+      "name": "Khushi Kumari",
+      "rollNumber": "25508",
+      "regNumber": "25151113055",
+      "department": "CSE AI",
+      "email": "khushikr052005@gmail.com",
+      "password": "25508",
+      "id": "stu_1791340032540_49_a9vmx",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_51_kwogu": {
+      "name": "Aashish Kumar Rai",
+      "rollNumber": "25549",
+      "regNumber": "25151113057",
+      "department": "CSE AI",
+      "email": "raiaashish2008@gmail.com",
+      "password": "25549",
+      "id": "stu_1791340032540_51_kwogu",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_52_5gaiw": {
+      "name": "Parth Bharti",
+      "rollNumber": "25516",
+      "regNumber": "25151113059",
+      "department": "CSE AI",
+      "email": "25f2004408@ds.study.iitm.ac.in",
+      "password": "25516",
+      "id": "stu_1791340032540_52_5gaiw",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    },
+    "stu_1791340032540_53_szrve": {
+      "name": "Apara",
+      "rollNumber": "25528",
+      "regNumber": "25151113061",
+      "department": "CSE AI",
+      "email": "naveenkeshav30@gmail.com",
+      "password": "25528",
+      "id": "stu_1791340032540_53_szrve",
+      "createdAt": "2026-10-07T02:27:12.540Z",
+      "status": "active"
+    }
+  },
+  "tests": {
+    "test_1791340010743_uedut": {
+      "id": "test_1791340010743_uedut",
+      "title": "New Examination",
+      "code": "TEST-1791340010743",
+      "subject": "General",
+      "paperRef": "AUTO",
+      "department": "CSE (AI)",
+      "durationMinutes": 60,
+      "passingPercentage": 40,
+      "markingScheme": {
+        "correct": 1,
+        "incorrect": 0
+      },
+      "questions": [
+        {
+          "id": 1,
+          "questionNumber": 1,
+          "type": "mcq_single",
+          "statement": "3. Which of the following is not a primitive data type in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) int"
+            },
+            {
+              "id": "B",
+              "text": "B) float"
+            },
+            {
+              "id": "C",
+              "text": "C) String"
+            },
+            {
+              "id": "D",
+              "text": "D) char"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "questionNumber": 2,
+          "type": "mcq_single",
+          "statement": "7. Which symbol is used to end a statement in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) :"
+            },
+            {
+              "id": "B",
+              "text": "B) ."
+            },
+            {
+              "id": "C",
+              "text": "C) ;"
+            },
+            {
+              "id": "D",
+              "text": "D) ,"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "questionNumber": 3,
+          "type": "mcq_single",
+          "statement": "8. Which collection does not allow duplicate elements?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) List"
+            },
+            {
+              "id": "B",
+              "text": "B) Set"
+            },
+            {
+              "id": "C",
+              "text": "C) ArrayList"
+            },
+            {
+              "id": "D",
+              "text": "D) Vector"
+            }
+          ],
+          "correctOption": "B",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "questionNumber": 4,
+          "type": "mcq_single",
+          "statement": "10. Which keyword is used to create an object in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) object"
+            },
+            {
+              "id": "B",
+              "text": "B) create"
+            },
+            {
+              "id": "C",
+              "text": "C) new"
+            },
+            {
+              "id": "D",
+              "text": "D) class"
+            }
+          ],
+          "correctOption": "C",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "questionNumber": 5,
+          "type": "mcq_single",
+          "statement": "13. Which keyword refers to the current object in Java?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A) self"
+            },
+            {
+              "id": "B",
+              "text": "B) this"
+            },
+            {
+              "id": "C",
+              "text": "C) current"
+            },
+            {
+              "id": "D",
+              "text": "D) object"
+            }
+          ],
+          "correctOption": "B",
+          "marks": 1,
+          "negativeMarks": 0,
+          "section": "General",
+          "explanation": ""
+        }
+      ],
+      "proctorRules": {
+        "tabBlurAutoSubmit": true,
+        "toleranceThreshold": "zero_tolerance",
+        "blurSensitivity": "instantaneous",
+        "fullscreenLock": true,
+        "webcamProctoring": false,
+        "clipboardLock": true,
+        "dualMonitorBlocker": true,
+        "securePasscode": "SEC-J1AB0M"
+      },
+      "status": "published",
+      "accessPin": "630294",
+      "teacherId": "t_c3da4f66ec99",
+      "teacherName": "asif   jamal sir"
+    }
+  },
+  "submissions": {
+    "submission_test_1791340010743_uedut_stu_1791340032540_21_x9ypi": {
+      "id": "submission_test_1791340010743_uedut_stu_1791340032540_21_x9ypi",
+      "testId": "test_1791340010743_uedut",
+      "testTitle": "New Examination",
+      "testCode": "TEST-1791340010743",
+      "studentId": "stu_1791340032540_21_x9ypi",
+      "studentName": "Priyam kumar jha",
+      "studentEmail": "priyamkumarjha123454321@gmail.com",
+      "studentRoll": "25534",
+      "studentReg": "25151113023",
+      "studentDepartment": "CSE AI",
+      "totalMarks": 5,
+      "maxMarks": 5,
+      "percentageScore": 100,
+      "passed": true,
+      "correctAnswersCount": 5,
+      "incorrectAnswersCount": 0,
+      "unattemptedCount": 0,
+      "timeSpentSeconds": 25,
+      "submittedAt": "2026-10-07T02:29:02.033Z",
+      "isViolation": false,
+      "violationReason": "Candidate voluntarily completed and submitted examination.",
+      "tabSwitchCount": 0,
+      "answers": {
+        "1": {
+          "questionId": 1,
+          "selectedOption": "C",
+          "status": "answered",
+          "timeSpentSeconds": 0
+        },
+        "2": {
+          "questionId": 2,
+          "selectedOption": "C",
+          "status": "answered",
+          "timeSpentSeconds": 0
+        },
+        "3": {
+          "questionId": 3,
+          "selectedOption": "B",
+          "status": "answered",
+          "timeSpentSeconds": 0
+        },
+        "4": {
+          "questionId": 4,
+          "selectedOption": "C",
+          "status": "answered",
+          "timeSpentSeconds": 0
+        },
+        "5": {
+          "questionId": 5,
+          "selectedOption": "B",
+          "status": "answered",
+          "timeSpentSeconds": 0
+        }
+      }
+    }
+  },
+  "adminConfig": {},
+  "teachers": {
+    "t_b098a83d56f2": {
+      "name": "sharique sir",
+      "username": "sharique01",
+      "salt": "92eec3b12695b12ce3e811606b2bf9c2",
+      "hash": "27668781ae9d9ffabc84c1fbcf6862a3c8606393db2a69d93b2ad4330e9693cd",
+      "createdAt": "2026-10-07T02:25:09.213Z"
+    },
+    "t_c3da4f66ec99": {
+      "name": "asif   jamal sir",
+      "username": "asif02",
+      "salt": "17c8c9303d01feca55f9b5f9b1cb60a2",
+      "hash": "af2c472b8822374b57fc595934e317acde8a90a24ab6e9a47bf0fe82a8c25487",
+      "createdAt": "2026-10-07T02:25:56.789Z"
+    }
+  }
+}
